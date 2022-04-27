@@ -1,0 +1,19 @@
+we are using spring boot for handling the server for our website
+
+so here common logic for creating or adding employee information to the backend 
+after adding or creating employee(user of website) we're able to access information about it anywhere in the website
+
+so here an algorithm for creating or adding employee(user of website) to the database( server || spring boot(using java))
+
+==> 1. render the form of add employee using get request
+==> 2. admin will add the data of employee
+==> 3. data are like
+    --> name
+    --> email
+    --> phone number
+    --> department assigned to the user(employee)
+    --> projects history
+    --> tasks
+    --> current working project
+==> 4. click on submit button
+==> 5. stop
